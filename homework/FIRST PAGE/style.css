@@ -1,0 +1,109 @@
+.main {
+    width: 100%;
+    position: relative;
+}
+
+.navbar{
+    background-color: #408bee ;
+    height: 40px;
+}
+body {
+    
+    margin:0 auto;
+}
+
+.email {
+    float: left;
+    margin-left: 30px;
+    color: white;
+    text-align: center;
+
+}
+
+.envelope {
+    font-size: 30px;
+}
+
+.phone {
+    color: white;
+    float: right;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.phoneicon {
+    font-size: 25px;
+}
+
+.info {
+    height: 250px;
+    background-color: rgb(48, 43, 43);
+}
+
+.yozuv {
+    float: left;
+    margin-left: 50px;
+}
+.rasmbox {
+    float: right;
+}
+.rasm {
+float: right;
+height: inherit;
+}
+
+
+h1 {
+    margin-top: 20px;
+    color: rgb(72, 147, 218);
+    font-size: 64px;
+}
+b {
+    color: rgb(72, 147, 218);
+}
+
+p {
+    color: rgb(214, 210, 210);
+}
+
+.occupation {
+    background-color: rgb(226, 222, 185);
+    margin-left: 20;
+    margin-top: 0;
+    height: 600px;
+}
+
+.ish {
+    text-align: center;
+text-transform: ;
+}
+
+.job {
+
+margin: 50px;
+;
+}
+
+.border-box {
+            border-radius: 50%;
+            float: left;
+            border: 3px dotted rgb(72, 147, 218);;
+            height: 200px;
+            width: 200px;
+            position: relative;
+            margin-left: 180px;
+            color: rgb(72, 147, 218);
+            vertical-align: middle;
+}
+
+.text_circle {
+    font-size: 36px;
+
+    line-height: 180px;
+}
+
+
+.ptext {
+    margin-top: 60px;
+    color: black
+}
